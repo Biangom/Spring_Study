@@ -1,0 +1,14 @@
+package di1;
+
+public class Car {
+	private KoreaTire tire;
+	public Car() {
+		tire = new KoreaTire();
+	}
+	
+	public void drive() {
+		System.out.println(tire.getName()+"로 굴러가는 자동차 di1");
+	}
+	
+
+}

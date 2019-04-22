@@ -1,0 +1,16 @@
+package di2;
+/**
+ * 
+ * 
+ *
+ */
+
+public class Test {
+	
+	public static void main(String[] args) {
+		Tire t = new KoreaTire();
+		Car c = new Car(t);
+		c.drive();
+		
+	} // end of main
+} // end of class

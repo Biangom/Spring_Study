@@ -1,0 +1,24 @@
+package di9;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Car {
+	private Tire tire;
+	
+	
+/*	public Car(tire t) {
+		tire = t;
+	}*/
+	
+	// 보통은 setter메서드에다가 쓴다.
+	// Tire 변수에다가도 쓰긴 하는데
+	// setter로 주입받기 (개발자들이 조금더 선호)
+	public void setTire(Tire t) {
+		tire = t; // <용어> property injection 속성 주입
+	}
+	
+	public void drive() {
+		System.out.println(tire.getName()+"로 굴러가는 자동차 di3");
+	}
+}
