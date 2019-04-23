@@ -12,6 +12,7 @@
 		<config>src/main/java/di6/applicationContext.xml</config>
 		<config>src/main/java/di8/applicationContext.xml</config>
 		<config>src/main/java/di9/applicationContext.xml</config>
+		<config>src/main/java/aop3/applicationContext.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

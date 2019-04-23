@@ -20,6 +20,5 @@ public class PersonProxy implements IPerson{
 		} finally {
 			System.out.println("문을 열고 나온다");
 		}
-		
 	}
 }

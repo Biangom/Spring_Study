@@ -1,5 +1,7 @@
 package aop2;
 
+// 2번 프록시패턴
+
 public class Test {
 	public static void main(String[] args) {
 		Boy boy = new Boy();
