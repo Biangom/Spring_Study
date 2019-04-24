@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="com.ssafy.model.service.BookService"/>
 <fullyQualifiedTypeName name="com.ssafy.model.repository.BookRepositoryImpl"/>
 <fullyQualifiedTypeName name="com.ssafy.model.service.BookServiceImpl"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.ssafy.model.dto.Product"/>
 <fullyQualifiedTypeName name="com.ssafy.model.service.ProductServiceImpl"/>
 <fullyQualifiedTypeName name="com.ssafy.model.repository.ProductRepo"/>
@@ -34,4 +33,21 @@
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.ProceedingJoinPoint"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.mybatis.Person"/>
+<fullyQualifiedTypeName name="org.springframework.validation.MessageCodeFormatter"/>
+<fullyQualifiedTypeName name="com.mybatis.MybatisConnectionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="com.dao.PersonDAO"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="com.vo.Person"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="com.dao.CarDAO"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.vo.Car"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
 </qualifiedTypeNameHistroy>
